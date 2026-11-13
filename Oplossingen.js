@@ -62,9 +62,10 @@ console.log("-oefening 4-");
 
 let laptop= 1200
 let spaargeld = 250
-let maand = 1
+let maand = 0
 while (spaargeld<=laptop) {
    spaargeld += 150;
    maand++;
-   console.log("maand" + " " + maand + " " + spaargeld)
 }
+   console.log("maand" + " " + maand + " " + spaargeld)
+
